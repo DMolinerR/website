@@ -6,11 +6,11 @@ body {
     /* background: rgb(224,187,228);
     background: linear-gradient(90deg, rgba(224,187,228,1) 0%, rgba(149,125,173,1) 25%, rgba(210,145,188,1) 50%, rgba(254,200,216,1) 75%, rgba(255,223,211,1) 100%);*/ 
     /* Image */
-    /*background-image: url("/img/gijon.jpg");*/
+    /*background-image: url("/src/img/gijon.jpg");*/
+    /*background-image: url(https://github.com/DMolinerR/website/blob/main/src/img/gijon.jpg?raw=true);*/
     /*background-position: center; /* Center the image */
     /*background-repeat: no-repeat; /* Do not repeat the image */
     /*background-size: cover; /* Resize the background image to cover the entire container */
-    /*background-color: whitesmoke;*/
 }
 
 h1 {
