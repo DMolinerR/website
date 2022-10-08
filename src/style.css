@@ -1,5 +1,16 @@
 body {
-    background-color: whitesmoke;
+    /* Gradient - Option 1 */
+    background: rgb(255,221,221);
+    background: linear-gradient(90deg, rgba(255,221,221,1) 0%, rgba(255,255,207,1) 33%, rgba(217,255,223,1) 66%, rgba(217,255,255,1) 100%);
+    /* Gradient - Option 2 */
+    /* background: rgb(224,187,228);
+    background: linear-gradient(90deg, rgba(224,187,228,1) 0%, rgba(149,125,173,1) 25%, rgba(210,145,188,1) 50%, rgba(254,200,216,1) 75%, rgba(255,223,211,1) 100%);*/ 
+    /* Image */
+    /*background-image: url("/img/gijon.jpg");*/
+    /*background-position: center; /* Center the image */
+    /*background-repeat: no-repeat; /* Do not repeat the image */
+    /*background-size: cover; /* Resize the background image to cover the entire container */
+    /*background-color: whitesmoke;*/
 }
 
 h1 {
